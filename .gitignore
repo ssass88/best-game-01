@@ -1,0 +1,4 @@
+out/
+transcripts.tar.gz
+node_modules/
+temp_*.png
